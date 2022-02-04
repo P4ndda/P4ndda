@@ -1,4 +1,4 @@
-## 🤙Eaii, seja bem vindo!! ao meu humilde perfil 🦆
+## Eaii, seja bem vindo!! ao meu humilde perfil
 
 - 👑Me chamo: Pedro Augusto
 - 📍Sou de: Uberlandia                                    
