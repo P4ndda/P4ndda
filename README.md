@@ -1,8 +1,8 @@
 ## Eaii, seja bem vindo!! ao meu humilde perfil
 
-- 👑Me chamo: Pedro Augusto
-- 📍Sou de: Uberlandia                                    
-- 💡Estou cursando: Ciencias da computação
+- 
+- Moro Uberlandia                                    
+- Cursando: Ciencias da computação
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
