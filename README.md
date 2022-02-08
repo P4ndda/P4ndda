@@ -11,7 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
 
-  <img align="right" alt="1VSo" height="160" style="border-radius:50px;" src="https://user-images.githubusercontent.com/96143899/146253288-a77db2e6-c7f7-49e1-a48e-37873cb8fbdb.gif">
+  <img align="right" alt="1VSo" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/96143899/146253288-a77db2e6-c7f7-49e1-a48e-37873cb8fbdb.gif">
 </div>
   
   ## 📞Meios de contatos☎ 
