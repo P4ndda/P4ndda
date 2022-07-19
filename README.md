@@ -16,7 +16,7 @@
   
   ## 📞Meios de contatos☎
 ><a href="https://discord.gg/wagxzStdcR" target="_blank"><img align="right" src="https://user-images.githubusercontent.com/96143899/152898284-95ccd151-7262-4718-833f-84db0a86b35c.png" target="_blank"></a> 
-  ><a href = "mailto:ppedroadas@gmail.com"><img align="right" src="https://user-images.githubusercontent.com/96143899/152898299-df9a27a7-666b-4a38-87b7-337ce4275a3e.png"></a>
+  ><a href = "mailto:ppedroadas@gmail.com" target="_blank"><img align="right" src="https://user-images.githubusercontent.com/96143899/152898299-df9a27a7-666b-4a38-87b7-337ce4275a3e.png"></a>
   ><a href="https://www.linkedin.com/in/pedro-augusto-19a3a4231/" target="_blank"><img align="right" src="https://user-images.githubusercontent.com/96143899/153294539-de7b47c7-8a5c-48ca-a064-ec4a7d583654.png" target="_blank"></a>
   ><a href="https://instagram.com/pedroo_agst" target="_blank"><img align="right" src="https://user-images.githubusercontent.com/96143899/152898105-e957f0d5-c6b2-4c4a-af31-2bb47cbecb74.png" target="_blank"></a>
 
